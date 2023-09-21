@@ -1,11 +1,11 @@
 site:
   title: ECS Programmer's Guide
-  start_page: onboarding::index.adoc
+  start_page: component-b::index.adoc
 content:
   edit_url: true
   sources:
   - url: https://github.com/pcelmerecs/newsept21demo.git
-    branches: [HEAD, 2.0]
+    branches: [main]
     start_path: docs
 ui:
   bundle:
